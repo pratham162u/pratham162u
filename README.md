@@ -17,14 +17,14 @@
   </tr>
 </table>
 
----
+
 
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-gohil-2b0035251)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratham.gohil162004@gmail.com)
 
----
+
 
 ## 🛠️ Languages and Tools:
 
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" />
 </div>
 
----
+
 
 ## 🧠 Currently Learning:
 - Flutter Animations and Firebase Authentication  
