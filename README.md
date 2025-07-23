@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 &nbsp;&nbsp;
-<a href="pratham.gohil162004@gmail.com">
+<a href="mailto:prathamgohil-inft@atharvacoe.ac.in">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
