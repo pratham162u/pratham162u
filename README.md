@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey there! I'm Pratham Gohil</h1>
+[<h1 align="left">👋 Hey there! I'm Pratham Gohil</h1>
 
 - 💻 Frontend Web Development  
 - 📱 Flutter App Development  
@@ -41,3 +41,4 @@
 - Flutter Animations and Firebase Authentication  
 - AI-powered app development with Python  
 - Computer Network & Cybersecurity fundamentals 
+](https://github.com/pratham162u/pratham162u/blob/main/Photoshop%20Logo.png)
