@@ -7,7 +7,9 @@
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="developer banner" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="250" alt="tech animation"/>
+</p>
 
 ---
 
@@ -30,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/photoshop-logo.png" width="40" title="Photoshop" />
+  <img src="[https://your-github-link-to-photoshop-logo.png](https://github.com/pratham162u/pratham162u/blob/main/Photoshop%20Logo.png)" width="40" title="Photoshop" />
 </div>
 
 ---
@@ -38,4 +40,4 @@
 ## 🧠 Currently Learning:
 - Flutter Animations and Firebase Authentication  
 - AI-powered app development with Python  
-- Cybersecurity fundamentals and ethical hacking  
+- Computer Network & Cybersecurity fundamentals 
