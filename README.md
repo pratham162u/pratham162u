@@ -40,8 +40,6 @@
 ## 🧠 Currently Learning:
 - Flutter Animations and Firebase Authentication  
 - AI-powered app development with Python  
-- Cybersecurity fundamentals and ethical hacking  
+- Computer Network & Cybersecurity fundamentals
 
----
 
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
