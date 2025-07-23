@@ -7,21 +7,14 @@
 
 ---
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="animated banner" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="developer banner" />
 
 ---
 
 ## 🌐 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pratham-gohil-2b0035251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pratham%20Gohil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pratham.gohil162004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pratham.gohil162004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-gohil-2b0035251)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratham.gohil162004@gmail.com)
 
 ---
 
@@ -37,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/photoshop-logo.png" width="40" title="Photoshop" />
 </div>
 
 ---
