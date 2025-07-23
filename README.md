@@ -9,6 +9,14 @@
 - 🧠 Python with AI Development  
 - ⚡ Fun fact: I love exploring Computer Networks and Cybersecurity
 
+  </td>
+
+  <td>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="250" alt="coding animation" />
+  </td>
+  </tr>
+</table>
+
 ---
 
 ## 🌐 Connect with me:
@@ -38,12 +46,4 @@
 ## 🧠 Currently Learning:
 - Flutter Animations and Firebase Authentication  
 - AI-powered app development with Python  
-- Cybersecurity fundamentals and ethical hacking  
-
-  </td>
-
-  <td>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="250" alt="coding animation" />
-  </td>
-  </tr>
-</table>
+- Computer Networks and Cybersecurity fundamentals 
