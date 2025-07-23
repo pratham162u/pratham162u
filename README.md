@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:pratham.gohil162004@gmail.com">
+<a href="pratham.gohil162004@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
@@ -82,4 +82,4 @@
 ## 🧠 Currently Learning:
 - Flutter Animations and Firebase Authentication  
 - AI-powered app development with Python  
-- Cybersecurity fundamentals and ethical hacking
+- Computer Networks and Cybersecurity fundamentals
