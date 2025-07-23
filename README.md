@@ -78,9 +78,4 @@
 
 </p>
 
----
 
-## 🧠 Currently Learning:
-- Flutter Animations and Firebase Authentication  
-- AI-powered app development with Python  
-- Computer Networks and Cybersecurity fundamentals
