@@ -45,7 +45,7 @@
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" 
+  <img src="https://cdn-1.webcatalog.io/catalog/tailwindcss-docs/tailwindcss-docs-icon-filled-256.webp?v=1714776057940" 
        width="50" style="margin-right:120px;" alt="Tailwind CSS Logo" />
 </a>
 
