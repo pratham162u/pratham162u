@@ -44,8 +44,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin-right:120px;" />
   </a>
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Tailwind CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin-right:120px;" />
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin-right:120px;" />
+    <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="50" style="margin-right:120px;" />
   </a>
 
   <a href="https://reactjs.org/" target="_blank">
